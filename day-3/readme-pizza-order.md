@@ -1,5 +1,7 @@
 # Python Pizza
 
+![alt_text](https://github.com/vosdoox/python_projects/blob/main/day-3/Pizza-delivery.png)
+
 The goal of this project was to build an automatic pizza order program.
 Based on a user's order, the fibal bill is generated.
 
