@@ -1,4 +1,4 @@
-# Pizza delivery service 
+# Pizza order service 
 
 # TODO 1: Greet the customer:
 print("Welcome to Python Pizza Deliveries!")
