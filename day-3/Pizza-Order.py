@@ -1,5 +1,15 @@
 # Pizza order service 
 
+# Pricing:
+
+# Small pizza: 15$
+# Medium pizza: 20$
+# Large pizza: 25$
+
+# Pepperoni for small pizza: +2$
+# Pepperoni for medium or large pizza: +3$
+# Extra cheese for any size of pizza: +1$
+
 # TODO 1: Greet the customer:
 print("Welcome to Python Pizza Deliveries!")
 
