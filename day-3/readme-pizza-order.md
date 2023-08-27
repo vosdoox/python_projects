@@ -3,7 +3,7 @@
 The goal of this project was to build an automatic pizza order program.
 Based on a user's order, the fibal bill is generated.
 
-Pricing: 
+## Pricing: 
 
 Small Pizza: $15
 
