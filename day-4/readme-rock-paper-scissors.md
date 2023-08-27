@@ -10,5 +10,5 @@ The World Rock Paper Scissors Association (WRPSA):
 > This globally cherished game transcends gender, age, athletic ability, and other distinctions, leveling the playing field for everyone. 
 > RPS is the go-to solution for settling disputes, determining who gets the last pizza slice, or assigning dish duty.
 
-The goal of this project was to create a Rock Paper Scissors simulator. The rules of the game were officially documented by WRPSA:z
+The goal of this project was to create a Rock Paper Scissors simulator. The rules of the game were officially documented by WRPSA at:
 https://wrpsa.com/the-official-rules-of-rock-paper-scissors/
