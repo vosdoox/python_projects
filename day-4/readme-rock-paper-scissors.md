@@ -1,6 +1,8 @@
 # Building Rock Paper Scissors Game
 
+![alt text](https://github.com/vosdoox/python_projects/blob/main/day-4/rock-200x187.png)
 ![alt text](https://github.com/vosdoox/python_projects/blob/main/day-4/paper-200x187.png)
+![alt text](https://github.com/vosdoox/python_projects/blob/main/day-4/scissors-200x187.png)
 
 The World Rock Paper Scissors Association (WRPSA):
 
